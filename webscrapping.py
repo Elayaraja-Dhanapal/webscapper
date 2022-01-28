@@ -1,4 +1,3 @@
-from itertools import count
 import botocore
 import boto3
 import requests
